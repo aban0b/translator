@@ -1,2 +1,2 @@
-# translator
-translation app
+# translation-app
+برنامج الترجمة الفورية 
